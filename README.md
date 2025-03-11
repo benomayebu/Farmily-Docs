@@ -138,8 +138,6 @@ Twitter: @FarmilyHQ
 
 Website: www.farmily.io (Coming soon!)
 
-License
-This repository is licensed under the MIT License (LICENSE). You are free to use, modify, and distribute the documentation and snippets provided here, subject to the terms of the license.
 Acknowledgments
 Thanks to the Ethereum community for providing the Sepolia testnet for development and testing.
 
